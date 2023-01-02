@@ -22,7 +22,9 @@ setters and getters for all the instance variables which are useful in the other
 
 ****
 How to Run:
+
 Compiler: javac Graph.java Node.java StopContagion.java
+
 Run: java StopContagion.java [-d] [-r RADIUS] num_nodes input_file
 ****
 Arguments:
